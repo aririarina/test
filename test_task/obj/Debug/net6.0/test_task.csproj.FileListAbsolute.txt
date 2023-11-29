@@ -1,0 +1,15 @@
+C:\education\programming languages\test\test_task\bin\Debug\net6.0\test_task.exe
+C:\education\programming languages\test\test_task\bin\Debug\net6.0\test_task.deps.json
+C:\education\programming languages\test\test_task\bin\Debug\net6.0\test_task.runtimeconfig.json
+C:\education\programming languages\test\test_task\bin\Debug\net6.0\test_task.dll
+C:\education\programming languages\test\test_task\bin\Debug\net6.0\test_task.pdb
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.csproj.AssemblyReference.cache
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.AssemblyInfoInputs.cache
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.AssemblyInfo.cs
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.csproj.CoreCompileInputs.cache
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.dll
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\refint\test_task.dll
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.pdb
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\test_task.genruntimeconfig.cache
+C:\education\programming languages\test\test_task\obj\Debug\net6.0\ref\test_task.dll
